@@ -1,5 +1,5 @@
 import unittest
-from brewtarget_ssl import database
+from brewtarget_ssh import database
 
 class TestDataBase(unittest.TestCase):
 
